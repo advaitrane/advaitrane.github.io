@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Advait Rane</title>
+    <link>http://advaitrane.github.io/projects/</link>
+    <description>Recent content in Portfolio on Advait Rane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://advaitrane.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PAL</title>
+      <link>http://advaitrane.github.io/projects/project1/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://advaitrane.github.io/projects/project1/</guid>
+      <description>PAL - Assisting Habit formation with Machine Learning&amp;nbsp;¶ I&amp;rsquo;m a final year Computer Science student at BITS Goa, India. I&amp;rsquo;m broadly interested in Human-Centred AI applications and their ethical implications for individuals and society.
+I am currently pursuing my undergraduate thesis at MIT Media Lab, with the Fluid Interfaces Group. I am working as a part of the Project PAL, where we are leveraging Human-in-the-Loop Reinforcement Learning for behaviour change interventions to assist users with habit formation.</description>
+    </item>
+    
+    <item>
+      <title>Visual Perception</title>
+      <link>http://advaitrane.github.io/projects/project2/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://advaitrane.github.io/projects/project2/</guid>
+      <description>Visual Perception of the Colour Spectrum&amp;nbsp;¶ I&amp;rsquo;m a final year Computer Science student at BITS Goa, India. I&amp;rsquo;m broadly interested in Human-Centred AI applications and their ethical implications for individuals and society.
+I am currently pursuing my undergraduate thesis at MIT Media Lab, with the Fluid Interfaces Group. I am working as a part of the Project PAL, where we are leveraging Human-in-the-Loop Reinforcement Learning for behaviour change interventions to assist users with habit formation.</description>
+    </item>
+    
+  </channel>
+</rss>
