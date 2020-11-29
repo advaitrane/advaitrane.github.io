@@ -83,26 +83,26 @@ The aim of this project was to automate the placement of certain products into v
 <p>The aim of this project was to automate the placement of certain products into video content post-production, so as to fit in with the context of the scene. To achieve this, we identified a similar object in the video and replaced it with the product to be advertised. We created a pipeline which involved (1) Object detection and (2) Product substitution.</p>
 <p>We evaluated the use of different object detection models like YOLOv3, Faster R-CNN, and RetinaNet. We preferred YOLO since it produced results faster, which would be a major asset if we wanted to run the pipeline real time.
 <p style="text-align:center;">
-    <img src="/imageai_yolo.jpeg" alt="object detection output"  />
+    <img src="/images/imageai_yolo.jpeg" alt="object detection output"  />
 </p>
 </p>
 <p>After identifying the object to be substituted, we used image-to-image translation GANs to replace it with the product. These are neural networks which take an image of a particular class as input and convert it to a similar image of a different class.
 <p style="text-align:center;">
-    <img src="/i2i_gans.jpeg" alt="image translation"  />
+    <img src="/images/i2i_gans.jpeg" alt="image translation"  />
 </p>
 </p>
 <p>We evaluated several models such as CycleGAN, UNITGAN, and GANimorph. UNITGAN and GANimorph gave the best results. As a part of this stage, I implemented the GANimorph model using Python and PyTorch. The image below, taken from the GANimorph paper, describes the structure of the different models.
 <p style="text-align:center;">
-    <img src="/ganimorph.png" alt="ganimorph"  />
+    <img src="/images/ganimorph.png" alt="ganimorph"  />
 </p>
 </p>
 <p>We trained these GANs to replace a bottle with another of a particular brand. The results obtained can be seen in the images below.
 <p style="text-align:center;">
-    <img src="/ganimorph_result.jpeg" alt="ganimorph results"  />
+    <img src="/images/ganimorph_result.jpeg" alt="ganimorph results"  />
 </p>
 
 <p style="text-align:center;">
-    <img src="/unitgan_result.jpeg" alt="unitgan results"  />
+    <img src="/images/unitgan_result.jpeg" alt="unitgan results"  />
 </p>
 </p>
 <p>You can find the code for the my GANimorph implementation <a href="https://github.com/advaitrane/GANimorph_pytorch">here</a></p>

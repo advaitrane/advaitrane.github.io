@@ -80,7 +80,7 @@ I initially worked on creating an android app to display colours through a VR he
 <p>I initially worked on creating an android app to display colours through a VR headset to completely flush the subject&rsquo;s field of vision. This would eliminate any distracting visuals from confounding the data. The display alternated between three colours at a time, either red-green-blue or cyan-magenta-yellow. The colour labels were transmitted and stored on the system running the EEG collection experiment. The app was created using the Google VR SDK for Android.</p>
 <p>After building the app, we carried out experiments to collect EEG data from subjects using a 32-channel EEG headset. We used the visual area EEG data from channels corresponding to the occipital lobe to analyse the reaction elicited by different colours. We converted the time-series EEG data to the frequency-domain using Fast Fourier Transforms and analysed the mean frequency-domain behaviour for different colours. I leveraged different classification techniques, including support vector classifiers, neural networks, and gradient-boosted classification trees to classify the frequency-domain data by colour. The models learned to classify the data with an accuracy of about 85%, indicating that a pattern exists in the human perception of colours in the brain which can be learnt even by simple models.</p>
 <p><p style="text-align:center;">
-    <img src="/VRCP_mean_delta.png" alt="VRCP_mean_delta"  />
+    <img src="/images/VRCP_mean_delta.png" alt="VRCP_mean_delta"  />
 </p>
 </p>
 <p>You can find the code for the android app <a href="https://github.com/advaitrane/VPoCS_RGB">here</a> and for the classification experiments <a href="https://github.com/advaitrane/VRCP">here</a></p>
