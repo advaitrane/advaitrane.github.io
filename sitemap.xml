@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://advaitrane.github.io/</loc>
+    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://advaitrane.github.io/about/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://advaitrane.github.io/</loc>
+    <loc>http://advaitrane.github.io/projects/project4/</loc>
+    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://advaitrane.github.io/projects/project5/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -30,6 +40,15 @@
   <url>
     <loc>http://advaitrane.github.io/projects/project2/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://advaitrane.github.io/projects/project3/</loc>
+    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://advaitrane.github.io/basketball/</loc>
   </url>
   
   <url>

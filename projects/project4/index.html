@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+
+<title>
+    Automated Product Placement(2019) - Advait Rane
+</title>
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/main.min.4b4bfcfc43b4eb75a45e31388501942ed5dfa819d8d82fc297107e943059c415.css" integrity="sha256-S0v8/EO063WkXjE4hQGULtXfqBnY2C/ClxB&#43;lDBZxBU=" crossorigin="anonymous" media="screen">
+
+
+
+
+  
+
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Automated Product Placement(2019)"/>
+<meta name="twitter:description" content="Automated Product Placement using GANs&nbsp;¶ Supervisor - Srinivasan Govindaraj
+Members - Advait Rane, Krut Patel
+I worked as an ML intern at Happiest Minds Technologies, Bangalore to automate contextual product placement for advertising in videos.
+The aim of this project was to automate the placement of certain products into video content post-production, so as to fit in with the context of the scene. To achieve this, we identified a similar object in the video and replaced it with the product to be advertised."/>
+
+<meta property="og:title" content="Automated Product Placement(2019)" />
+<meta property="og:description" content="Automated Product Placement using GANs&nbsp;¶ Supervisor - Srinivasan Govindaraj
+Members - Advait Rane, Krut Patel
+I worked as an ML intern at Happiest Minds Technologies, Bangalore to automate contextual product placement for advertising in videos.
+The aim of this project was to automate the placement of certain products into video content post-production, so as to fit in with the context of the scene. To achieve this, we identified a similar object in the video and replaced it with the product to be advertised." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://advaitrane.github.io/projects/project4/" />
+<meta property="article:published_time" content="2020-11-27T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-11-27T00:00:00+00:00" />
+
+
+    
+
+    
+    
+    
+    <title>
+        
+        Automated Product Placement(2019)
+        
+    </title>
+</head>
+
+<body>
+    
+    
+    <header class="wrap flex-container">
+        <h1>Automated Product Placement(2019)</h1>
+    </header>
+    
+    <main class="wrap">
+        
+        <article role="article" class="flex-container">
+<h3 id="automated-product-placement-using-gans" class="anchor-link"><a href="#automated-product-placement-using-gans">Automated Product Placement using GANs<span class="pilcrow">&nbsp;¶</span></a></h3>
+<p>Supervisor - Srinivasan Govindaraj</p>
+<p>Members - Advait Rane, Krut Patel</p>
+<p>I worked as an ML intern at Happiest Minds Technologies, Bangalore to automate contextual product placement for advertising in videos.</p>
+<p>The aim of this project was to automate the placement of certain products into video content post-production, so as to fit in with the context of the scene. To achieve this, we identified a similar object in the video and replaced it with the product to be advertised. We created a pipeline which involved (1) Object detection and (2) Product substitution.</p>
+<p>We evaluated the use of different object detection models like YOLOv3, Faster R-CNN, and RetinaNet. We preferred YOLO since it produced results faster, which would be a major asset if we wanted to run the pipeline real time.
+<p style="text-align:center;">
+    <img src="/imageai_yolo.jpeg" alt="object detection output"  />
+</p>
+</p>
+<p>After identifying the object to be substituted, we used image-to-image translation GANs to replace it with the product. These are neural networks which take an image of a particular class as input and convert it to a similar image of a different class.
+<p style="text-align:center;">
+    <img src="/i2i_gans.jpeg" alt="image translation"  />
+</p>
+</p>
+<p>We evaluated several models such as CycleGAN, UNITGAN, and GANimorph. UNITGAN and GANimorph gave the best results. As a part of this stage, I implemented the GANimorph model using Python and PyTorch. The image below, taken from the GANimorph paper, describes the structure of the different models.
+<p style="text-align:center;">
+    <img src="/ganimorph.png" alt="ganimorph"  />
+</p>
+</p>
+<p>We trained these GANs to replace a bottle with another of a particular brand. The results obtained can be seen in the images below.
+<p style="text-align:center;">
+    <img src="/ganimorph_result.jpeg" alt="ganimorph results"  />
+</p>
+
+<p style="text-align:center;">
+    <img src="/unitgan_result.jpeg" alt="unitgan results"  />
+</p>
+</p>
+<p>You can find the code for the my GANimorph implementation <a href="https://github.com/advaitrane/GANimorph_pytorch">here</a></p>
+</article>
+        
+
+        
+        
+        <nav role="navigation" class="flex-container bottom-menu">
+            
+<hr />
+<p>
+
+
+    
+
+    
+        
+            <a href="/about">about</a>
+        
+    
+    
+        
+            &#183; 
+            <a href="/projects">portfolio</a>
+        
+            &#183; 
+            <a href="/basketball">basketball</a>
+        
+            &#183; 
+            <a href="/">home</a>
+        
+    
+    &#183; 
+    <a href="/">
+        
+    </a>
+
+</p>
+        </nav>
+        
+        
+    </main>
+    
+    <footer class="flex-container footer">
+</footer>
+    
+    
+</body>
+
+</html>
