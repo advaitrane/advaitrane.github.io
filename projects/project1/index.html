@@ -11,7 +11,7 @@
 <meta name="referrer" content="no-referrer">
 
 <title>
-    PAL - Human-in-the-Loop ML for behaviour change(2020) - Advait Rane
+    Human-in-the-loop RL for Behaviour Change(2020) - Advait Rane
 </title>
 
 
@@ -22,7 +22,7 @@
 
 
 
-<link rel="stylesheet" href="/css/main.min.4b4bfcfc43b4eb75a45e31388501942ed5dfa819d8d82fc297107e943059c415.css" integrity="sha256-S0v8/EO063WkXjE4hQGULtXfqBnY2C/ClxB&#43;lDBZxBU=" crossorigin="anonymous" media="screen">
+<link rel="stylesheet" href="/css/main.min.38d14cb9c68f9c625ef2dd5992d5959f19c9bcea52929ec71ae385f260c5241b.css" integrity="sha256-ONFMucaPnGJe8t1ZktWVnxnJvOpSkp7HGuOF8mDFJBs=" crossorigin="anonymous" media="screen">
 
 
 
@@ -37,17 +37,17 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="PAL - Human-in-the-Loop ML for behaviour change(2020)"/>
-<meta name="twitter:description" content="PAL - Assisting Habit formation with Machine Learning&nbsp;¶ Supervisor - Mina Khan
+<meta name="twitter:title" content="Human-in-the-loop RL for Behaviour Change(2020)"/>
+<meta name="twitter:description" content="Human-in-the-loop, Interpretable, Sample-efficient RL for Behaviour Change Interventions (PAL)&nbsp;¶ Supervisor - Mina Khan
 Members - Advait Rane, P Srivatsa
 I am working on the Project PAL in the Fluid Interfaces Group at MIT Media Lab for my undergraduate thesis.
-We are working on human-in-the-loop, sample-efficient Reinforcement Learning to assist users with context-specific interventions for habit formation. To do this in an interpretable manner, we are using attention models like Transformers to model user behaviour sequences and contextual bandits coupled with human guidance and bayesian estimation."/>
+Habit formation can be supported with computer-generated interventions. However, for these interventions to be helpful they should be personalised and context-specific. For a healthy interaction with the user the system should learn to adapt to the user fast, and the user should be able to understand and control its behaviour."/>
 
-<meta property="og:title" content="PAL - Human-in-the-Loop ML for behaviour change(2020)" />
-<meta property="og:description" content="PAL - Assisting Habit formation with Machine Learning&nbsp;¶ Supervisor - Mina Khan
+<meta property="og:title" content="Human-in-the-loop RL for Behaviour Change(2020)" />
+<meta property="og:description" content="Human-in-the-loop, Interpretable, Sample-efficient RL for Behaviour Change Interventions (PAL)&nbsp;¶ Supervisor - Mina Khan
 Members - Advait Rane, P Srivatsa
 I am working on the Project PAL in the Fluid Interfaces Group at MIT Media Lab for my undergraduate thesis.
-We are working on human-in-the-loop, sample-efficient Reinforcement Learning to assist users with context-specific interventions for habit formation. To do this in an interpretable manner, we are using attention models like Transformers to model user behaviour sequences and contextual bandits coupled with human guidance and bayesian estimation." />
+Habit formation can be supported with computer-generated interventions. However, for these interventions to be helpful they should be personalised and context-specific. For a healthy interaction with the user the system should learn to adapt to the user fast, and the user should be able to understand and control its behaviour." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://advaitrane.github.io/projects/project1/" />
 <meta property="article:published_time" content="2020-11-27T00:00:00+00:00" />
@@ -61,7 +61,7 @@ We are working on human-in-the-loop, sample-efficient Reinforcement Learning to 
     
     <title>
         
-        PAL - Human-in-the-Loop ML for behaviour change(2020)
+        Human-in-the-loop RL for Behaviour Change(2020)
         
     </title>
 </head>
@@ -70,17 +70,24 @@ We are working on human-in-the-loop, sample-efficient Reinforcement Learning to 
     
     
     <header class="wrap flex-container">
-        <h1>PAL - Human-in-the-Loop ML for behaviour change(2020)</h1>
+        <h1>Human-in-the-loop RL for Behaviour Change(2020)</h1>
     </header>
     
     <main class="wrap">
         
         <article role="article" class="flex-container">
-<h3 id="pal---assisting-habit-formation-with-machine-learning" class="anchor-link"><a href="#pal---assisting-habit-formation-with-machine-learning">PAL - Assisting Habit formation with Machine Learning<span class="pilcrow">&nbsp;¶</span></a></h3>
+<h3 id="human-in-the-loop-interpretable-sample-efficient-rl-for-behaviour-change-interventions-pal" class="anchor-link"><a href="#human-in-the-loop-interpretable-sample-efficient-rl-for-behaviour-change-interventions-pal">Human-in-the-loop, Interpretable, Sample-efficient RL for Behaviour Change Interventions (PAL)<span class="pilcrow">&nbsp;¶</span></a></h3>
 <p>Supervisor - Mina Khan</p>
 <p>Members - Advait Rane, P Srivatsa</p>
 <p>I am working on the Project PAL in the Fluid Interfaces Group at MIT Media Lab for my undergraduate thesis.</p>
-<p>We are working on human-in-the-loop, sample-efficient Reinforcement Learning to assist users with context-specific interventions for habit formation. To do this in an interpretable manner, we are using attention models like Transformers to model user behaviour sequences and contextual bandits coupled with human guidance and bayesian estimation.</p>
+<p>Habit formation can be supported with computer-generated interventions. However, for these interventions to be helpful they should be personalised and context-specific. For a healthy interaction with the user the system should learn to adapt to the user fast, and the user should be able to understand and control its behaviour. Thus, sample-efficiency and interpretability are key to the system.</p>
+<p>As a part of this thesis, we relied on Reinforcement Learning (RL) to learn the most beneficial interventions. We built an RL environment and designed datasets to test the above desiderata in an RL model. We evaluated the use of different sequence models to learn user behaviour patterns to make learning sample-efficient. We further evaluated the performance of different RL algorithms to determine the best choice in terms of sample efficiency and integration of human guidance. To test the models, we used computer-usage data to learn to give calming interventions during computer usage. We also built and deployed a Chrome extension which gives calming interventions based on the user’s preferences while browsing the internet.</p>
+<p>The image below depicts a visualisation of the computer usage data.
+<p style="text-align:center;">
+    <img src="/projects/project_images/states-history-js.jpeg" alt="computer usage states"  />
+</p>
+</p>
+<p>For details, you can refer to my <a href="/projects/project_links/AdvaitRane_TSReport.pdf">thesis</a>.</p>
 </article>
         
 
@@ -106,6 +113,9 @@ We are working on human-in-the-loop, sample-efficient Reinforcement Learning to 
         
             &#183; 
             <a href="/basketball">basketball</a>
+        
+            &#183; 
+            <a href="/blog">blog</a>
         
             &#183; 
             <a href="/">home</a>

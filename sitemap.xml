@@ -63,4 +63,20 @@
     <loc>http://advaitrane.github.io/tags/</loc>
   </url>
   
+  <url>
+    <loc>http://advaitrane.github.io/test_port/</loc>
+  </url>
+  
+  <url>
+    <loc>http://advaitrane.github.io/test_port/t1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://advaitrane.github.io/test_port/t2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://advaitrane.github.io/test_port/t3/</loc>
+  </url>
+  
 </urlset>

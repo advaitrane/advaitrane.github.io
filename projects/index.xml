@@ -30,15 +30,15 @@ The dataset used is provided by Elliptic. It is a dataset of a graph network of 
     </item>
     
     <item>
-      <title>PAL - Human-in-the-Loop ML for behaviour change(2020)</title>
+      <title>Human-in-the-loop RL for Behaviour Change(2020)</title>
       <link>http://advaitrane.github.io/projects/project1/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>http://advaitrane.github.io/projects/project1/</guid>
-      <description>PAL - Assisting Habit formation with Machine Learning&amp;nbsp;¶ Supervisor - Mina Khan
+      <description>Human-in-the-loop, Interpretable, Sample-efficient RL for Behaviour Change Interventions (PAL)&amp;nbsp;¶ Supervisor - Mina Khan
 Members - Advait Rane, P Srivatsa
 I am working on the Project PAL in the Fluid Interfaces Group at MIT Media Lab for my undergraduate thesis.
-We are working on human-in-the-loop, sample-efficient Reinforcement Learning to assist users with context-specific interventions for habit formation. To do this in an interpretable manner, we are using attention models like Transformers to model user behaviour sequences and contextual bandits coupled with human guidance and bayesian estimation.</description>
+Habit formation can be supported with computer-generated interventions. However, for these interventions to be helpful they should be personalised and context-specific. For a healthy interaction with the user the system should learn to adapt to the user fast, and the user should be able to understand and control its behaviour.</description>
     </item>
     
     <item>
