@@ -13,38 +13,58 @@
   </url>
   
   <url>
-    <loc>http://advaitrane.github.io/projects/project4/</loc>
+    <loc>http://advaitrane.github.io/portfolio/ps1/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://advaitrane.github.io/projects/project5/</loc>
+    <loc>http://advaitrane.github.io/portfolio/gcn/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://advaitrane.github.io/testindex/</loc>
+    <loc>http://advaitrane.github.io/portfolio/pal/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://advaitrane.github.io/projects/project1/</loc>
+    <loc>http://advaitrane.github.io/portfolio/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://advaitrane.github.io/projects/</loc>
+    <loc>http://advaitrane.github.io/portfolio/bsb/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://advaitrane.github.io/projects/project2/</loc>
+    <loc>http://advaitrane.github.io/portfolio/cogneuro/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://advaitrane.github.io/projects/project3/</loc>
+    <loc>http://advaitrane.github.io/writing/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://advaitrane.github.io/writing/mosquitoes/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://advaitrane.github.io/writing/crush/</loc>
+    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://advaitrane.github.io/writing/gloom/</loc>
+    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://advaitrane.github.io/writing/thebeach/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -56,27 +76,7 @@
   </url>
   
   <url>
-    <loc>http://advaitrane.github.io/gallery/</loc>
-  </url>
-  
-  <url>
     <loc>http://advaitrane.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://advaitrane.github.io/test_port/</loc>
-  </url>
-  
-  <url>
-    <loc>http://advaitrane.github.io/test_port/t1/</loc>
-  </url>
-  
-  <url>
-    <loc>http://advaitrane.github.io/test_port/t2/</loc>
-  </url>
-  
-  <url>
-    <loc>http://advaitrane.github.io/test_port/t3/</loc>
   </url>
   
 </urlset>
