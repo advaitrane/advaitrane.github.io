@@ -18,58 +18,58 @@ I am currently pursuing my undergraduate thesis at MIT Media Lab, with the Fluid
     </item>
     
     <item>
-      <title>Automated Product Placement(2019)</title>
-      <link>http://advaitrane.github.io/portfolio/ps1/</link>
-      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://advaitrane.github.io/portfolio/ps1/</guid>
-      <description>Automated Product Placement using GANs&amp;nbsp;¶ Supervisor - Srinivasan Govindaraj
-Members - Advait Rane, Krut Patel
-I worked as an ML intern at Happiest Minds Technologies, Bangalore to automate contextual product placement for advertising in videos.
-The aim of this project was to automate the placement of certain products into video content post-production, so as to fit in with the context of the scene. To achieve this, we identified a similar object in the video and replaced it with the product to be advertised.</description>
-    </item>
-    
-    <item>
-      <title>GCNs on Bitcoin Transaction Graphs(2019)</title>
-      <link>http://advaitrane.github.io/portfolio/gcn/</link>
-      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://advaitrane.github.io/portfolio/gcn/</guid>
-      <description>GCNs to detect fraudulent transactions in a Bitcoin transaction graph&amp;nbsp;¶ This was a personal project I undertook in September 2019. The aim was to classify licit and illicit Bitcoin transactions using Graph Convolutional Networks. I implemented the methods described in the paper- &amp;ldquo;Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics&amp;rdquo; by Weber et. al.
-The dataset used is provided by Elliptic. It is a dataset of a graph network of Bitcoin transactions with handcrafted features.</description>
-    </item>
-    
-    <item>
-      <title>Human-in-the-loop RL for Behaviour Change(2020)</title>
+      <title>project1</title>
       <link>http://advaitrane.github.io/portfolio/pal/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>http://advaitrane.github.io/portfolio/pal/</guid>
-      <description>Human-in-the-loop, Interpretable, Sample-efficient RL for Behaviour Change Interventions (PAL)&amp;nbsp;¶ Supervisor - Mina Khan
+      <description>Human-in-the-loop, Interpretable, Sample-efficient RL for Behaviour Change Interventions (PAL) (2020)&amp;nbsp;¶ Supervisor - Mina Khan
 Members - Advait Rane, P Srivatsa
 I am working on the Project PAL in the Fluid Interfaces Group at MIT Media Lab for my undergraduate thesis.
 Habit formation can be supported with computer-generated interventions. However, for these interventions to be helpful they should be personalised and context-specific. For a healthy interaction with the user the system should learn to adapt to the user fast, and the user should be able to understand and control its behaviour.</description>
     </item>
     
     <item>
-      <title>Synchronisation in Neural Mass Models(2020)</title>
+      <title>project2</title>
       <link>http://advaitrane.github.io/portfolio/bsb/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>http://advaitrane.github.io/portfolio/bsb/</guid>
-      <description>Synchronisation in Neural Mass Models&amp;nbsp;¶ Supervisor - Dr. Basabdatta Sen Bhattacharya
+      <description>Synchronisation in Neural Mass Models (2020)&amp;nbsp;¶ Supervisor - Dr. Basabdatta Sen Bhattacharya
 Members - Advait Rane, Pranav Mahajan, Swapna Sasi
 I am working in the BINN Lab, BITS Goa to study the synchronisation between neural populations in the Neural Mass Model of the Thalamocortical Visual Pathway.
 A Neural Mass Model represents each neuronal population as a single neuron. The connectivity between these neurons is determined by the synapse weights. I worked on implementing a Neural Mass Model of the Thalamocortical Visual Pathway in the brain in Python as well as MATLAB.</description>
     </item>
     
     <item>
-      <title>Visual Perception of the Colour Spectrum(2019)</title>
+      <title>project3</title>
+      <link>http://advaitrane.github.io/portfolio/ps1/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://advaitrane.github.io/portfolio/ps1/</guid>
+      <description>Automated Product Placement using GANs (2019)&amp;nbsp;¶ Supervisor - Srinivasan Govindaraj
+Members - Advait Rane, Krut Patel
+I worked as an ML intern at Happiest Minds Technologies, Bangalore to automate contextual product placement for advertising in videos.
+The aim of this project was to automate the placement of certain products into video content post-production, so as to fit in with the context of the scene. To achieve this, we identified a similar object in the video and replaced it with the product to be advertised.</description>
+    </item>
+    
+    <item>
+      <title>project4</title>
+      <link>http://advaitrane.github.io/portfolio/gcn/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://advaitrane.github.io/portfolio/gcn/</guid>
+      <description>GCNs to detect fraudulent transactions in a Bitcoin transaction graph (2019)&amp;nbsp;¶ This was a personal project I undertook in September 2019. The aim was to classify licit and illicit Bitcoin transactions using Graph Convolutional Networks. I implemented the methods described in the paper- &amp;ldquo;Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics&amp;rdquo; by Weber et. al.
+The dataset used is provided by Elliptic. It is a dataset of a graph network of Bitcoin transactions with handcrafted features.</description>
+    </item>
+    
+    <item>
+      <title>project5</title>
       <link>http://advaitrane.github.io/portfolio/cogneuro/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>http://advaitrane.github.io/portfolio/cogneuro/</guid>
-      <description>Visual Perception of the Colour Spectrum&amp;nbsp;¶ Supervisors - Mayur Jartarkar, Veeky Baths
+      <description>Visual Perception of the Colour Spectrum (2019)&amp;nbsp;¶ Supervisors - Mayur Jartarkar, Veeky Baths
 I worked in the BITS Goa Cognitive Neuroscience Lab to study the human perception of the colour spectrum by classifying EEG data.
 I initially worked on creating an android app to display colours through a VR headset to completely flush the subject&amp;rsquo;s field of vision. This would eliminate any distracting visuals from confounding the data. The display alternated between three colours at a time, either red-green-blue or cyan-magenta-yellow.</description>
     </item>
@@ -88,7 +88,7 @@ To scratch your ankle, to rid it of the annoying itch.
 These mosquitoes which come out only at night,
 Like our deepest secrets,
 Which pour out of our crevices,
-In the deceptive safety of the dark,</description>
+Into the deceptive safety of the dark,</description>
     </item>
     
     <item>
@@ -107,8 +107,8 @@ under the trance of my
 ill-conceived notions of serendipity.
 The scabs on my knees won&amp;rsquo;t heal
 because I keep picking them
-forcing them
-to bear blows that my heart deflects
+forcing them to bear
+the blows that my heart deflects
 and they open up and
 the blood that pours out is a brilliant lurid red</description>
     </item>
@@ -145,7 +145,7 @@ And of practicality,</description>
       <description>The Beach&amp;nbsp;¶ There&amp;rsquo;s water. There&amp;rsquo;s the massive expanse of waves and ripples, like an all-encompassing Juggernaut, throwing itself around until it crumbles into the sand.
 There&amp;rsquo;s the sand. The mixture of crushed rocks, broken bottles, stubbed cigarettes and dichotomies in which you can bury yourself comfortably.
 The wind. The wanton wind which runs along your skin, eloping with all your worries, leaving you inebriated with peace.
-The reflections. The imitations of reality in broken pieces of glass that embellish the sand, trying to capture the truth but only really lying.</description>
+The reflections. The imitations of reality in broken pieces of glass that could cut your foot as they embellish the sand, trying to capture the truth but only really lying.</description>
     </item>
     
   </channel>
