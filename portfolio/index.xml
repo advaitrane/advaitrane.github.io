@@ -27,7 +27,7 @@ Habit formation can be supported with computer-generated interventions. However,
       <guid>http://advaitrane.github.io/portfolio/projects/bsb/</guid>
       <description>Synchronisation in Neural Mass Models (2020)&amp;nbsp;¶ Supervisor - Dr. Basabdatta Sen Bhattacharya
 Members - Advait Rane, Pranav Mahajan, Swapna Sasi
-I am working in the BINN Lab, BITS Goa to study the synchronisation between neural populations in the Neural Mass Model of the Thalamocortical Visual Pathway.
+I worked in the BINN Lab, BITS Goa to study the synchronisation between neural populations in the Neural Mass Model of the Thalamocortical Visual Pathway.
 A Neural Mass Model represents each neuronal population as a single neuron. The connectivity between these neurons is determined by the synapse weights. I worked on implementing a Neural Mass Model of the Thalamocortical Visual Pathway in the brain in Python as well as MATLAB.</description>
     </item>
     
@@ -61,7 +61,7 @@ The dataset used is provided by Elliptic. It is a dataset of a graph network of 
       <guid>http://advaitrane.github.io/portfolio/projects/cogneuro/</guid>
       <description>Visual Perception of the Colour Spectrum (2019)&amp;nbsp;¶ Supervisors - Mayur Jartarkar, Veeky Baths
 I worked in the BITS Goa Cognitive Neuroscience Lab to study the human perception of the colour spectrum by classifying EEG data.
-I initially worked on creating an android app to display colours through a VR headset to completely flush the subject&amp;rsquo;s field of vision. This would eliminate any distracting visuals from confounding the data. The display alternated between three colours at a time, either red-green-blue or cyan-magenta-yellow.</description>
+I initially worked on creating an android app to display colours through a VR headset to completely flush the subject’s field of vision. This would eliminate any distracting visuals from confounding the data. The display alternated between three colours at a time, either red-green-blue or cyan-magenta-yellow.</description>
     </item>
     
   </channel>
