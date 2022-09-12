@@ -18,16 +18,6 @@ Inherently interpretable models provide explanations for their outcomes that are
     </item>
     
     <item>
-      <title>project7</title>
-      <link>http://advaitrane.github.io/portfolio/projects/bnf/</link>
-      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://advaitrane.github.io/portfolio/projects/bnf/</guid>
-      <description>Bias and Fairness in Multimodal Emotion Recognition Across Cultures (2022)&amp;nbsp;¶ Members - Advait Rane, Nghi Le, Armaghan Asghar
-This project aims to study and quantify the biases learned by emotion recognition models on the multi-modal cross-cultural SEWA dataset, and contribute a way to reduce biases in the models. We analyse the data to identify sources of bias the model may learn. We quantify bias and unfairness in the predictions of baseline deep learning emotion recognition models trained on different modalities.</description>
-    </item>
-    
-    <item>
       <title>project8</title>
       <link>http://advaitrane.github.io/portfolio/projects/vip/</link>
       <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
@@ -39,9 +29,31 @@ We defined an environment with three types of obstacles - ground level (fire hyd
     </item>
     
     <item>
+      <title>project2</title>
+      <link>http://advaitrane.github.io/portfolio/projects/bsb/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://advaitrane.github.io/portfolio/projects/bsb/</guid>
+      <description>Synchronisation in Neural Mass Models (2020)&amp;nbsp;¶ Supervisor - Dr. Basabdatta Sen Bhattacharya
+Members - Advait Rane, Pranav Mahajan, Swapna Sasi
+I worked in the BINN Lab, BITS Goa to study the synchronisation between neural populations in the Neural Mass Model of the Thalamocortical Visual Pathway.
+A Neural Mass Model represents each neuronal population as a single neuron. The connectivity between these neurons is determined by the synapse weights. I worked on implementing a Neural Mass Model of the Thalamocortical Visual Pathway in the brain in Python as well as MATLAB.</description>
+    </item>
+    
+    <item>
+      <title>project7</title>
+      <link>http://advaitrane.github.io/portfolio/projects/bnf/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://advaitrane.github.io/portfolio/projects/bnf/</guid>
+      <description>Bias and Fairness in Multimodal Emotion Recognition Across Cultures (2022)&amp;nbsp;¶ Members - Advait Rane, Nghi Le, Armaghan Asghar
+This project aims to study and quantify the biases learned by emotion recognition models on the multi-modal cross-cultural SEWA dataset, and contribute a way to reduce biases in the models. We analyse the data to identify sources of bias the model may learn. We quantify bias and unfairness in the predictions of baseline deep learning emotion recognition models trained on different modalities.</description>
+    </item>
+    
+    <item>
       <title>project5</title>
       <link>http://advaitrane.github.io/portfolio/projects/cogneuro/</link>
-      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>http://advaitrane.github.io/portfolio/projects/cogneuro/</guid>
       <description>Visual Perception of the Colour Spectrum (2019)&amp;nbsp;¶ Supervisors - Mayur Jartarkar, Veeky Baths
@@ -50,27 +62,25 @@ I initially worked on creating an android app to display colours through a VR he
     </item>
     
     <item>
+      <title>project4</title>
+      <link>http://advaitrane.github.io/portfolio/projects/gcn/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://advaitrane.github.io/portfolio/projects/gcn/</guid>
+      <description>GCNs to detect fraudulent transactions in a Bitcoin transaction graph (2019)&amp;nbsp;¶ This was a personal project I undertook in September 2019. The aim was to classify licit and illicit Bitcoin transactions using Graph Convolutional Networks. I implemented the methods described in the paper- &amp;ldquo;Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics&amp;rdquo; by Weber et. al.
+The dataset used is provided by Elliptic. It is a dataset of a graph network of Bitcoin transactions with handcrafted features.</description>
+    </item>
+    
+    <item>
       <title>project1</title>
       <link>http://advaitrane.github.io/portfolio/projects/pal/</link>
-      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>http://advaitrane.github.io/portfolio/projects/pal/</guid>
       <description>Human-in-the-loop, Interpretable, Sample-efficient RL for Behaviour Change Interventions (PAL) (2020)&amp;nbsp;¶ Supervisor - Mina Khan
 Members - Advait Rane, P Srivatsa
 I am working on the Project PAL in the Fluid Interfaces Group at MIT Media Lab for my undergraduate thesis.
 Habit formation can be supported with computer-generated interventions. However, for these interventions to be helpful they should be personalised and context-specific. For a healthy interaction with the user the system should learn to adapt to the user fast, and the user should be able to understand and control its behaviour.</description>
-    </item>
-    
-    <item>
-      <title>project2</title>
-      <link>http://advaitrane.github.io/portfolio/projects/bsb/</link>
-      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://advaitrane.github.io/portfolio/projects/bsb/</guid>
-      <description>Synchronisation in Neural Mass Models (2020)&amp;nbsp;¶ Supervisor - Dr. Basabdatta Sen Bhattacharya
-Members - Advait Rane, Pranav Mahajan, Swapna Sasi
-I worked in the BINN Lab, BITS Goa to study the synchronisation between neural populations in the Neural Mass Model of the Thalamocortical Visual Pathway.
-A Neural Mass Model represents each neuronal population as a single neuron. The connectivity between these neurons is determined by the synapse weights. I worked on implementing a Neural Mass Model of the Thalamocortical Visual Pathway in the brain in Python as well as MATLAB.</description>
     </item>
     
     <item>
@@ -83,16 +93,6 @@ A Neural Mass Model represents each neuronal population as a single neuron. The 
 Members - Advait Rane, Krut Patel
 I worked as an ML intern at Happiest Minds Technologies, Bangalore to automate contextual product placement for advertising in videos.
 The aim of this project was to automate the placement of certain products into video content post-production, so as to fit in with the context of the scene. To achieve this, we identified a similar object in the video and replaced it with the product to be advertised.</description>
-    </item>
-    
-    <item>
-      <title>project4</title>
-      <link>http://advaitrane.github.io/portfolio/projects/gcn/</link>
-      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://advaitrane.github.io/portfolio/projects/gcn/</guid>
-      <description>GCNs to detect fraudulent transactions in a Bitcoin transaction graph (2019)&amp;nbsp;¶ This was a personal project I undertook in September 2019. The aim was to classify licit and illicit Bitcoin transactions using Graph Convolutional Networks. I implemented the methods described in the paper- &amp;ldquo;Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics&amp;rdquo; by Weber et. al.
-The dataset used is provided by Elliptic. It is a dataset of a graph network of Bitcoin transactions with handcrafted features.</description>
     </item>
     
   </channel>
