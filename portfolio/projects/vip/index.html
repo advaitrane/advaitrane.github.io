@@ -91,9 +91,9 @@ We defined an environment with three types of obstacles - ground level (fire hyd
 <ul>
 <li>Canny edge detection</li>
 <li>RGB-D Camera Depth perception</li>
-<li>YOLO Object Detection
-Edge detection was done using OpenCV and Object detection was done using a pre-trained YOLOv4 model with Unity Barracuda. We divided the free area between the sidewalk bounds or any obstacle into three lanes and directed the user to use the straight, right, or left motion based on the free lane. If no lane is free we ask the user to stop.</li>
+<li>YOLO Object Detection</li>
 </ul>
+<p>Edge detection was done using OpenCV and Object detection was done using a pre-trained YOLOv4 model with Unity Barracuda. We divided the free area between the sidewalk bounds or any obstacle into three lanes and directed the user to use the straight, right, or left motion based on the free lane. If no lane is free we ask the user to stop.</p>
 <p>To evaluate safety requirements, we converted the 3 requirements into STL formulae. We then evaluated each simulation run with these formulae using the RTAMT package in Python. The video below shows some of our successful runs.
 <p style="text-align:center;">
     <img src="/images/DemosAllSuccess.mp4" alt="successful runs"  />
