@@ -28,6 +28,17 @@ This project aims to study and quantify the biases learned by emotion recognitio
     </item>
     
     <item>
+      <title>project5</title>
+      <link>http://advaitrane.github.io/portfolio/projects/cogneuro/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://advaitrane.github.io/portfolio/projects/cogneuro/</guid>
+      <description>Visual Perception of the Colour Spectrum (2019)&amp;nbsp;¶ Supervisors - Mayur Jartarkar, Veeky Baths
+I worked in the BITS Goa Cognitive Neuroscience Lab to study the human perception of the colour spectrum by classifying EEG data.
+I initially worked on creating an android app to display colours through a VR headset to completely flush the subject’s field of vision. This would eliminate any distracting visuals from confounding the data. The display alternated between three colours at a time, either red-green-blue or cyan-magenta-yellow.</description>
+    </item>
+    
+    <item>
       <title>project1</title>
       <link>http://advaitrane.github.io/portfolio/projects/pal/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
@@ -71,17 +82,6 @@ The aim of this project was to automate the placement of certain products into v
       <guid>http://advaitrane.github.io/portfolio/projects/gcn/</guid>
       <description>GCNs to detect fraudulent transactions in a Bitcoin transaction graph (2019)&amp;nbsp;¶ This was a personal project I undertook in September 2019. The aim was to classify licit and illicit Bitcoin transactions using Graph Convolutional Networks. I implemented the methods described in the paper- &amp;ldquo;Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics&amp;rdquo; by Weber et. al.
 The dataset used is provided by Elliptic. It is a dataset of a graph network of Bitcoin transactions with handcrafted features.</description>
-    </item>
-    
-    <item>
-      <title>project5</title>
-      <link>http://advaitrane.github.io/portfolio/projects/cogneuro/</link>
-      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://advaitrane.github.io/portfolio/projects/cogneuro/</guid>
-      <description>Visual Perception of the Colour Spectrum (2019)&amp;nbsp;¶ Supervisors - Mayur Jartarkar, Veeky Baths
-I worked in the BITS Goa Cognitive Neuroscience Lab to study the human perception of the colour spectrum by classifying EEG data.
-I initially worked on creating an android app to display colours through a VR headset to completely flush the subject’s field of vision. This would eliminate any distracting visuals from confounding the data. The display alternated between three colours at a time, either red-green-blue or cyan-magenta-yellow.</description>
     </item>
     
   </channel>
