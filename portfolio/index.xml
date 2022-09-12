@@ -8,6 +8,26 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://advaitrane.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>project6</title>
+      <link>http://advaitrane.github.io/portfolio/projects/pbm/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://advaitrane.github.io/portfolio/projects/pbm/</guid>
+      <description>Inherently Interpretable Prototype Bottleneck Models (2022)&amp;nbsp;¶ Members - Advait Rane, Nicholas Klein, Yang Cheng, Rajat Gupta
+Inherently interpretable models provide explanations for their outcomes that are faithful to model computations. The Concept Bottleneck Model (CBM) and the Prototypical Parts Network (ProtoPNet) are two such models. We aim to improve the interpretability and data-efficiency of such models by augmenting them with auxiliary concept datasets. The Prototype Bottleneck Model (PBM) trains the bottleneck concept layer with auxilliary concept datasets and clustering objectives.</description>
+    </item>
+    
+    <item>
+      <title>project7</title>
+      <link>http://advaitrane.github.io/portfolio/projects/bnf/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://advaitrane.github.io/portfolio/projects/bnf/</guid>
+      <description>Bias and Fairness in Multimodal Emotion Recognition Across Cultures (2022)&amp;nbsp;¶ Members - Advait Rane, Nghi Le, Armaghan Asghar
+This project aims to study and quantify the biases learned by emotion recognition models on the multi-modal cross-cultural SEWA dataset, and contribute a way to reduce biases in the models. We analyse the data to identify sources of bias the model may learn. We quantify bias and unfairness in the predictions of baseline deep learning emotion recognition models trained on different modalities.</description>
+    </item>
+    
+    <item>
       <title>project1</title>
       <link>http://advaitrane.github.io/portfolio/projects/pal/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>

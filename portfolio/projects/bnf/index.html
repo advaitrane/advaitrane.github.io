@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+
+<title>
+    project7 - Advait Rane
+</title>
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/main.min.4dbb0344faf5187a051c223ff9088f0a1240c585ab89c8dc7ac26b22208a7b76.css" integrity="sha256-TbsDRPr1GHoFHCI/&#43;QiPChJAxYWricjcesJrIiCKe3Y=" crossorigin="anonymous" media="screen">
+
+
+
+
+  
+
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="project7"/>
+<meta name="twitter:description" content="Bias and Fairness in Multimodal Emotion Recognition Across Cultures (2022)&nbsp;¶ Members - Advait Rane, Nghi Le, Armaghan Asghar
+This project aims to study and quantify the biases learned by emotion recognition models on the multi-modal cross-cultural SEWA dataset, and contribute a way to reduce biases in the models. We analyse the data to identify sources of bias the model may learn. We quantify bias and unfairness in the predictions of baseline deep learning emotion recognition models trained on different modalities."/>
+
+<meta property="og:title" content="project7" />
+<meta property="og:description" content="Bias and Fairness in Multimodal Emotion Recognition Across Cultures (2022)&nbsp;¶ Members - Advait Rane, Nghi Le, Armaghan Asghar
+This project aims to study and quantify the biases learned by emotion recognition models on the multi-modal cross-cultural SEWA dataset, and contribute a way to reduce biases in the models. We analyse the data to identify sources of bias the model may learn. We quantify bias and unfairness in the predictions of baseline deep learning emotion recognition models trained on different modalities." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://advaitrane.github.io/portfolio/projects/bnf/" /><meta property="article:section" content="portfolio" />
+<meta property="article:published_time" content="2022-09-11T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-09-11T00:00:00+00:00" />
+
+
+
+    
+
+    
+    
+    
+    <title>
+        
+        Bias and Fairness in Multimodal Emotion Recognition
+        
+    </title>
+</head>
+
+<body>
+    
+    
+    <header class="wrap flex-container">
+        <h1>Bias and Fairness in Multimodal Emotion Recognition</h1>
+    </header>
+    
+    <main class="wrap">
+        
+        <article role="article" class="flex-container">
+<h3 id="bias-and-fairness-in-multimodal-emotion-recognition-across-cultures-2022" class="anchor-link"><a href="#bias-and-fairness-in-multimodal-emotion-recognition-across-cultures-2022">Bias and Fairness in Multimodal Emotion Recognition Across Cultures (2022)<span class="pilcrow">&nbsp;¶</span></a></h3>
+<p><p style="text-align:center;">
+    <img src="/images/bnf_cover.jpg" alt="cover"  />
+</p>
+</p>
+<p>Members - Advait Rane, Nghi Le, Armaghan Asghar</p>
+<p>This project aims to study and quantify the biases learned by emotion recognition models on the multi-modal cross-cultural SEWA dataset, and contribute a way to reduce biases in the models. We analyse the data to identify sources of bias the model may learn. We quantify bias and unfairness in the predictions of baseline deep learning emotion recognition models trained on different modalities. We further analyse the effects of late fusion on prediction bias and evaluate debiasing strategies at the late fusion step.</p>
+<p>We followed the AVEC 2019 CES guidelines and extracted audiovisual features including Low Level Descriptors, Bag-of-words, and Deep Learning representations. We passed these features though a 2-layer LSTM regression model to predict arousal, valence and liking. We used 4 metrics to quantify fairness in the predictions from different features:</p>
+<ul>
+<li>Mean Difference</li>
+<li>CCC Difference</li>
+<li>MAE Difference</li>
+<li>JS Divergence
+We also quantify the &ldquo;culture predictivity&rdquo; of different feature sets by training a 2-layer LSTM to predict the culture from the features. Finally, we explored Late Fusion Debiasing -  debiasing by dropping the highly predictive feature sets at the late fusion step.</li>
+</ul>
+<p>The results for the fairness metrics evaluated across different feature sets can be seen in the figure below. These results indicate that different features perform better on different metrics. When using these features for different applications, we should use those features that have the best performance on a metric suitable for that application.
+<p style="text-align:center;">
+    <img src="/images/bnf_metrics.png" alt="metrics"  />
+</p>
+</p>
+<p>Our results for culture predictivity indicate that visual LLDs and Bag-of-Word features generally have the lowest culture predictivity and are better features to use to create a debiased emotion recognition model on this dataset.
+<p style="text-align:center;">
+    <img src="/images/CP_Accuracy_Bar.png" alt="culture predictivity"  />
+</p>
+</p>
+<p>Lastly, the Late Fusion Debiasing results show that dropping highly predictive feature sets result in better performance on the fairness metrics, with the predictions being independent of an individual&rsquo;s culture membership.
+<p style="text-align:center;">
+    <img src="/images/lfd_results.png" alt="culture predictivity"  />
+</p>
+</p>
+<p>You can refer to the report for this project <a href="/documents/CSCI_535_Final_Report_v2.pdf">here</a> for details.</p>
+</article>
+        
+
+        
+        
+        <nav role="navigation" class="flex-container bottom-menu">
+            
+<hr />
+<p>
+
+
+    
+
+    
+        
+            <a href="/about">about</a>
+        
+    
+    
+        
+            &#183; 
+            <a href="/portfolio">portfolio</a>
+        
+            &#183; 
+            <a href="/basketball">basketball</a>
+        
+            &#183; 
+            <a href="/writing">writing</a>
+        
+    
+    &#183; 
+    <a href="/">
+        home
+    </a>
+
+</p>
+        </nav>
+        
+        
+    </main>
+    
+    <footer class="flex-container footer">
+</footer>
+    
+    
+</body>
+
+</html>
