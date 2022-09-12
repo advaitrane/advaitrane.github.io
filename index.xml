@@ -28,6 +28,17 @@ This project aims to study and quantify the biases learned by emotion recognitio
     </item>
     
     <item>
+      <title>project8</title>
+      <link>http://advaitrane.github.io/portfolio/projects/vip/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://advaitrane.github.io/portfolio/projects/vip/</guid>
+      <description>Obstacle Avoidance for Visually Impaired Persons (2021)&amp;nbsp;¶ Members - Advait Rane, Katie Foss
+In this project, we simulated a device that uses Computer Vision (CV) to help a Visually Impaired Person (VIP) navigate around obstacles on a sidewalk. We further evaluated the simulated system against safety requirements defined using Signal Temporal Logic (STL).
+We defined an environment with three types of obstacles - ground level (fire hydrant), head level (stop sign) and large ground level obstacle (bicycle).</description>
+    </item>
+    
+    <item>
       <title>project5</title>
       <link>http://advaitrane.github.io/portfolio/projects/cogneuro/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
